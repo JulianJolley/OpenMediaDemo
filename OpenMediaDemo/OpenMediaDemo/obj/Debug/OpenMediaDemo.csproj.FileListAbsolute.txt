@@ -1,0 +1,15 @@
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\OpenMediaDemo.exe.config
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\OpenMediaDemo.exe
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\OpenMediaDemo.pdb
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.csprojAssemblyReference.cache
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.Form1.resources
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.Properties.Resources.resources
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.csproj.GenerateResource.cache
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.csproj.CoreCompileInputs.cache
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.csproj.CopyComplete
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.exe
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\obj\Debug\OpenMediaDemo.pdb
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\log4net.dll
+C:\Users\jolleyj\Source\repos\OpenMediaDemo\OpenMediaDemo\bin\Debug\log4net.xml
